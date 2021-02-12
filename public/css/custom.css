@@ -1,0 +1,11 @@
+.hide {
+    display: none;
+}
+
+.change {
+  visibility: visible;
+}
+
+.form-control {
+  display: none;
+}
